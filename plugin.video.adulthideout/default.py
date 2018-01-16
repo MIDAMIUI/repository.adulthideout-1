@@ -47,7 +47,6 @@ efukt = 'http://efukt.com/'
 pornhub = 'http://pornhub.com'
 pornsocket = 'http://pornsocket.com'
 hentaigasm = 'http://hentaigasm.com/'
-ashemaletube = 'https://www.ashemaletube.com'
 youporn = 'http://www.youporn.com'
 heavyr = 'http://www.heavy-r.com'
 gotporn ='http://www.gotporn.com'
@@ -99,7 +98,7 @@ def home():
 
 #define main directory and starting page
 def main():
-    add_dir('A Shemale Tube [COLOR yellow] Videos[/COLOR]', ashemaletube + '/videos/newest/' , 2, logos + 'ashemaletube.png', fanart)
+    #add_dir('A Shemale Tube [COLOR yellow] Videos[/COLOR]', ashemaletube + '/videos/newest/' , 2, logos + 'ashemaletube.png', fanart)
     #(removing Beeg for now, until i find a solution for it)
     #add_dir('Beeg [COLOR yellow] Videos[/COLOR]', beeg_url(), 2, logos + 'beeg.png', fanart)
     add_dir('Efukt [COLOR yellow] Videos[/COLOR]', efukt, 2, logos + 'efukt.png', fanart)
